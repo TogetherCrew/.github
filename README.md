@@ -1,1 +1,3 @@
-# .github
+# License
+
+Please see LICENCE file.
